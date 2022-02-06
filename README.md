@@ -64,7 +64,6 @@
 - [Zombie Graveyard](https://github.com/JoseRamonMartinez/vr-zombie-graveyard): Cardboard game in Unreal VR . ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </details>
-</br>
 
 <!-----SKILLS----->
 
