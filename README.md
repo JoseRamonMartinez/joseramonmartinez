@@ -28,7 +28,7 @@
 # Relevant Projects 
 
 <details>
-<summary>Details</summary>
+<summary>Show</summary>
         
 ## Apps
 
@@ -70,7 +70,7 @@
 
 # My skills
 <details>
-<summary>Details</summary>
+<summary>Show</summary>
 
 ### Programing Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
