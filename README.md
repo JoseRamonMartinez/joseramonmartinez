@@ -12,6 +12,10 @@
                 <a href="https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro">
                 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
                 </a>
+                <a href="https://joseramonmartinez.github.io">
+                <img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-42B883?style=for-the-badge&logo=web&logoColor=white">
+                </a>
+  
 
 </p>
 
