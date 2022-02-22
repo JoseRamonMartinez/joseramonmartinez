@@ -22,11 +22,11 @@
 ---
 
 <img align="top" height="195"
-                src="https://github-readme-stats.vercel.app/api?username=joseramonmartinez"
+                src="hhttps://github-readme-stats.vercel.app/api?username=joseramonmartinez&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"
                 alt="joseramonmartinez" />
 
 <img align="top" height="195"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=joseramonmartinez&show_icons=true&locale=en&layout=compact&theme=vue"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=joseramonmartinez&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"
                 alt="joseramonmartinez" />
 
 # Relevant Projects 
