@@ -39,7 +39,7 @@
 <h1>📘 <b>My Projects</b> </h1>
 
         
-## 🖥️ &nbsp;Apps
+<h3>🖥️ &nbsp;Apps</h3> 
 
 - [URLCLIP](https://github.com/joseramonmartinez/urlclip): URL shorter app. Short your links and urls and make easy to share with the people&nbsp;&nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -55,19 +55,20 @@
 - [LanGuide](https://github.com/joseramonmartinez/languide) (Private):  European project Languide. Content Manager webapp for language guidance for English and other languges thought a universal methodology. <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <br>
 
-## ☁️&nbsp;Cloud Computing 
+<h3>☁️&nbsp;Cloud Computing</h3> 
+
 
 - [Api-Padel](https://github.com/joseramonmartinez/api-padel) (Private): AWS workflow for web scraping the paddle ranking data and API Rest to consume own services. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 <br>
 
-## 🗣&nbsp;Alexa Skills
+<h3>🗣&nbsp;Alexa Skills</h3>
 
 - [Alexa-Skill-Trending-Topic](https://github.com/JoseRamonMartinez/alexa-skill-trending-topic): Alexa skill to get the twitter trending topic for any country and the popular tweets about a topic. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 - [Alexa-Skill-Ranking-Padel](https://github.com/JoseRamonMartinez/alexa-skill-trending-topic) (Private): Alexa skill to get the paddle ranking or information about the top players in the world. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 <br>
 
-## 🎮&nbsp;Virtual Reality
+<h3>🎮&nbsp;Virtual Reality</h3> 
 
 - [Dual Point World Manipulation](https://github.com/JoseRamonMartinez/vr-dualpoint-world-manipulation): Cardboard game in Unreal VR.![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
