@@ -18,11 +18,6 @@
 
 </p>
 
-<style>
-td {
-    border: transparent;
-}
-</style>
 
 <table>
 <td>
