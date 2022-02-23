@@ -17,7 +17,11 @@
   
 
 </p>
-
+<style>
+td {
+    border: transparent;
+}
+</style>
 <table>
 <td>
 <img align="top" height="195"
