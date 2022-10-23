@@ -57,7 +57,7 @@
 <h3>☁️&nbsp;Cloud Computing</h3> 
 
 
-- [Api-Padel](https://github.com/joseramonmartinez/api-padel) (Private): AWS workflow for web scraping the paddle ranking data and API Rest to consume own services. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+- [Padel-aws](https://github.com/joseramonmartinez/padel-aws) (Private): AWS workflow for web scraping the paddle ranking data and API Rest to consume own services. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 - [Pokedex-alexa-aws](https://github.com/joseramonmartinez/pokedex-alexa-aws): AWS serverless app with a alexa skill frontend. IaC and CD implemented. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
