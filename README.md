@@ -1,5 +1,5 @@
 <h1 align="center">José Ramón Martínez Riveiro</h1>
-<h3 align="center">+4 year of profesional experience as Software engineer</h3>
+<h3 align="center">+4 year of profesional experience as software engineer</h3>
 <br>
 <p align="center">
                 <a href="https://linkedin.com/in/joseramonmartinezriveiro">
