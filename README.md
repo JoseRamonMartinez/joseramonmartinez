@@ -33,8 +33,6 @@
 
 - [PuerTICas](https://github.com/NiceUCs/puerTICas): Access control application to a smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<br>
-
 - [MAIA](https://github.com/joseramonmartinez/maia) (Private): Personalized follow-up system for breast cancer patients. Composed of two mobile web clients and a serverless backend (AWS). ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 - [LanGuide](https://github.com/JoseRamonMartinez/languide-content-manager) (Private):  European project Languide. Content Manager webapp for language guidance for English and other languges thought a universal methodology. <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -43,8 +41,11 @@
 
 - [Bombergame](https://github.com/joseramonmartinez/bombergame): Multiplayer web app game based on BomberMan .&nbsp;&nbsp; <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<h3>☁️&nbsp;Cloud Computing</h3> 
+<h3>🖇&nbsp;Open Source</h3>
 
+- [Apareo CAS](https://github.com/apereo/cas): Contributor.
+
+<h3>☁️&nbsp;Cloud Computing</h3> 
 
 - [Padel-aws](https://github.com/joseramonmartinez/padel-aws): AWS workflow for web scraping the paddle ranking data and API Rest to consume own services. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
